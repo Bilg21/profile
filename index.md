@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Bilg21/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Software Developer with 5+ years of experience in systems/back-end development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Languages: C/C++, Python, C#, Java, SQL, Bash
+Databases: SQLite, PostgreSQL, MSSQL, MySQL
+Platforms: Linux flavors, Raspbian, Windows
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Projects
 
-### Jekyll Themes
+[EFT Tracker ](url)
+[Askbot Translation](url)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bilg21/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[LinkedIn](https://www.linkedin.com/in/bilegdemberel-khurelchuluun-02a4b978/) 
+[Github](https://github.com/Bilg21)
